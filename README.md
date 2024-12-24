@@ -123,6 +123,8 @@ No   NIM            Nama Mahasiswa           Tugas          UTS            UAS  
 1    123456         John Doe                 80.00          90.00          85.00          85.00
 2    234567         Jane Doe                 70.00          80.00          90.00          81.00
 3    345678         Bob Smith                90.00          95.00          92.00          92.30
+
+Rata-rata Nilai Akhir: 86.10
 ```
 # Note
 - The code uses a simple array to store the input data and the final grades.
