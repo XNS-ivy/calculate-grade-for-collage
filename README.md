@@ -89,3 +89,42 @@ int main()
     return 0;
 }
 ```
+# Running
+- run and compile the code in your preferred IDE or compiler
+- input the number of students, their names, NIM, and grades
+- the program will display a table with the input data and the final grade for each student.
+
+# Example Use Cases
+```bash
+Input data for 3 students
+
+Nama Mahasiswa 1: John Doe
+NIM: 123456
+nilai tugas: 80
+nilai uts: 90
+nilai uas: 85
+
+Nama Mahasiswa 2: Jane Doe
+NIM: 234567
+nilai tugas: 70
+nilai uts: 80
+nilai uas: 90
+
+Nama Mahasiswa 3: Bob Smith
+NIM: 345678
+nilai tugas: 90
+nilai uts: 95
+nilai uas: 92
+```
+- The program will display a table with the input data and the final grade for each student. 
+```bash
+No   NIM            Nama Mahasiswa           Tugas          UTS            UAS            Nilai Akhir
+----------------------------------------------------------------------------------------------------------------------
+1    123456         John Doe                 80.00          90.00          85.00          85.00
+2    234567         Jane Doe                 70.00          80.00          90.00          81.00
+3    345678         Bob Smith                90.00          95.00          92.00          92.30
+```
+# Note
+- The code uses a simple array to store the input data and the final grades.
+- The table function is not implemented in this code, you need to implement it according to your needs.
+- The code assumes that the input data is valid and does not contain any errors.
