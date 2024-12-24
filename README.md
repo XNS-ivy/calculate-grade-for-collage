@@ -1,7 +1,7 @@
 # calculate-grade-for-collage
 this is a... grade calculate with c++ :D
 ## how to use
-```bash
+```cpp
 #include <iostream>
 #include <string>
 #include <iomanip>
